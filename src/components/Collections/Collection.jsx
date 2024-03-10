@@ -43,7 +43,7 @@ const Collection = () => {
         </div>
         <div className="collectionImg">
           <img src={collection4} alt="img4" />
-          <h3>10 Best Luxury Dining Places</h3>
+          <h3>10 Luxurious Dining Places</h3>
           <span>
             10 Places <ArrowRightIcon />
           </span>
