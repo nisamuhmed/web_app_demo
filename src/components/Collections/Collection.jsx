@@ -12,7 +12,7 @@ const Collection = () => {
       <h1>Collection</h1>
       <div className="collectionText">
         <p>
-          Explore curated lists of top restaurants, cafes, pubs, and bars in
+          Explore curated lists of top restaurants, cafes, pubs in
           Kerala, based on trends
         </p>
         <span>
