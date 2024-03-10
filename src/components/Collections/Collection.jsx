@@ -13,7 +13,7 @@ const Collection = () => {
       <div className="collectionText">
         <p>
           Explore curated lists of top restaurants, cafes, pubs in
-          Kerala, based on trends
+          Kerala
         </p>
         <span>
           All collection in Kerala <ArrowRightIcon />
