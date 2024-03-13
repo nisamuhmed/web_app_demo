@@ -47,7 +47,7 @@ const Header = () => {
           |
           <input
             type="text"
-            placeholder="Search for Restaurants"
+            placeholder="Search for"
           />
         </div>
       </div>
